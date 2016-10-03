@@ -1,0 +1,27 @@
+___________Automation Program Status::2.10___________
+10:03:16::15:54:48	Status File Successfully Created
+10:03:16::15:54:48	MacAddress is 54:27:1e:5c:9c:00
+10:03:16::15:54:48	HostName is PCampbellLab05
+10:03:16::15:54:48	IPAddress is 10.1.40.41
+10:03:16::15:54:48	Option Selected with -n SLT4.4_104B0SIG_JCS_TEMP_VOLT_RETIMERON_BYPASS
+10:03:16::15:54:48	Reading Input_File Successful
+10:03:16::15:54:48	Reading Other Values/Variables Complete
+10:03:16::15:54:48	Reading Default Transmitter/Receiver Complete
+10:03:16::15:54:48	Creating Output File Complete
+10:03:16::15:54:48	Reading PreCondition Values Complete
+10:03:16::15:54:50	Reading Temperature Complete
+10:03:16::15:54:50	Reading Humidity Complete
+10:03:16::15:54:50	Reading InputData Complete
+10:03:16::15:54:50	Reading InputData Complete
+10:03:16::15:54:50	Reading PowerSupply Complete
+10:03:16::15:54:50	Reading ONBoard_VDD Complete
+10:03:16::15:54:50	Reading ONBoard_VDDQ Complete
+10:03:16::15:54:50	Reading OPTBench Complete
+10:03:16::15:54:50	Reading RegisterSweep Complete
+10:03:16::15:54:50	Reading BoardConfig Complete
+10:03:16::15:54:50	Reading Execution Order Complete
+10:03:16::15:54:50	Reading Run Time Values Complete
+10:03:16::15:54:50	Reading ReTimer Script Complete
+10:03:16::15:55:02	Initialization of Boards Complete
+10:03:16::15:55:02	Total Number of Points to be Tested is 72
+10:03:16::15:55:02	Temperature Options Have Been Defined

@@ -1,0 +1,10 @@
+Test Start Time:19:10:34 Test End Time:19:10:49
+Number of test run:1
+Host Initial LockDetect:1 Device Initial LockDetect:1
+
+fail total number of failure:1
+Host:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+

@@ -1,0 +1,174 @@
+####Automation Program Setup File
+
+__BOARD_CONFIG_BEGIN__
+#<Board_Name>,<Type>,<Comport>,<ChipAssignment:A1>,<ChipAssignment:A2>
+#If PinStrap Mode Comment this out
+Board_Y,SLTBoard,COM3,TX:1,RX:2
+Board_X,SLTBoard,COM4,TX:2,RX:1
+__BOARD_CONFIG_END__
+
+__RUNTIME_BEGIN__
+##<TIME TO RUN RETIMER CHARACTERIZARTION>
+3
+__RUNTIME_END__
+
+__EXECUTION_ORDER_BEGIN__
+##<Task>,<SubTask>
+
+###|||||Bypass Measurements|||||### 
+Meas_DSA_Jitter,CH1_DUAL
+Meas_DSA_Jitter,CH1_SINGLE
+Meas_DSA_Jitter,CH2_DUAL
+Meas_DSA_Jitter,CH2_SINGLE
+###|||||Bypass Measurements|||||###
+
+
+###|||||ReTimer Measurements|||||###
+Meas_DSA_JitterReTimerOn,CH1_DUAL
+Meas_DSA_JitterReTimerOn,CH1_SINGLE
+Meas_DSA_JitterReTimerOn,CH2_DUAL
+Meas_DSA_JitterReTimerOn,CH2_SINGLE
+###|||||ReTimer Measurements|||||###
+
+__EXECUTION_ORDER_END__
+
+__OPTICAL_BENCH_BEGIN__
+#<MotorType>,<MotorIdentification>,<StartPoint>,<EndPoint>,<StepSize>
+#XAxis,83860486,-2.5,2.5,0.5
+#YAxis,83860484,-2.5,2.5,0.5
+#ZAxis,83860488,0,0.6,0.6
+__OPTICAL_BENCH_END__
+
+__REGISTER_SWEEP_BEGIN__
+#<ID>,<Name>,<ChipIdentification>,<StartPointWithMask>,<EndPointWithMask>,<StepSize>
+__REGISTER_SWEEP_END__
+
+
+__TEMPERATURE_BEGIN__
+##<TemperatureValue Note only -5 to 105>
+-5
+25
+75
+__TEMPERATURE_END__
+
+__HUMIDITY_BEGIN__
+#<Ensure Tank is filled with water and only do Humidity for Temp>10>
+__HUMIDITY_END__
+
+
+__ONBOARD_VDD_BEGIN__
+__ONBOARD_VDD_END__
+
+__ONBOARD_VDDQ_BEGIN__
+1120
+1200
+2000
+__ONBOARD_VDDQ_END__
+
+
+__INPUT_DATA_BEGIN__
+##<Type>,<SubType>,<DataRate>,<VoltageLevel>
+#Default,PRBS7,5000000000,800
+#File,C:\N4903B\HBR2_SR_BR-BF-SR-248_CmpEyePattern.ptrn,5400000000,800
+__INPUT_DATA_END__
+
+
+__OTHER_BEGIN__
+
+###|||||MAKE SURE DEVICE FAMILY IS CORRECT|||||####
+DEVICE_FAMILY,KSS104
+###|||||MAKE SURE DEVICE FAMILY IS CORRECT|||||####
+
+###|||||PLOTS|||||###
+READ_EYE_HEIGHT,True
+READ_GAIN_SET,True
+PLOT_DATA,True
+###|||||PLOTS|||||###
+
+###|||||SPECIFY OUTPUT DIRECTORY|||||###
+DATA_OUTPUT_DIRECTORY,C:\Users\Lab2\Desktop\Data
+###|||||SPECIFY OUTPUT DIRECTORY|||||###
+
+###|||||SCOPE PARAMETER|||||###
+DSA_IPADDRESS,10.1.40.43
+DSA_SETUP_FILE_1,C:\scope\setups\Default_Set1.set
+DSA_SETUP_FILE_2,C:\scope\setups\Default_Set2.set
+DSA_AVERAGE_COUNT,1024
+DSA_RETRY,1
+###|||||SCOPE PARAMETER|||||###
+
+#POWERSUPPLY_COMPORT,COM28
+#POWER_CYCLE_DEVICE,False
+TEMPCHAMBER_COMPORT,COM5
+TEMPCHAMBER_SOAKTIME,5
+TEMPCHAMBER_TYPE,205H
+
+
+#BERT_IPADDRESS,10.1.40.65
+#DATA_ELECIDLE,True
+#AGILENT_LS_ADDRESS,GPIB0::20::INSTR
+#MULTI_ADDRESS,USB0::0x05E6::0x2110::1421277::INSTR
+#CURRENT_DRAWN,False
+#READ_MISC_STATUS,False
+#READ_REPLICA_OFFSET,False
+#READ_UPPER_SET,False
+#READ_SUMM_OFFSET,False
+#READ_REFERENCE_SET,False
+
+__OTHER_END__
+
+__SET_TRANSMITTER_BEGIN__
+#0x34,0xff
+#0x35,0xff
+#0x10,0xa1
+#0x1b,0x00
+__SET_TRANSMITTER_END__
+
+__SET_RECEIVER_BEGIN__
+
+__SET_RECEIVER_END__
+
+__OPTICAL_BENCH_START_POSITIONS_BEGIN__
+X_START_POS,0
+Y_START_POS,0
+Z_START_POS,0
+__OPTICAL_BENCH_START_POSITIONS_END__
+
+__PLOT_DATA_SETTINGS_BEGIN__
+#<PLOT_TYPE>,<START_VALUE>,<END_VALUE>
+JITTER_PLOT,20,120
+EYEHEIGHT_PLOT,0,36
+GAINSET_PLOT,0,128
+__PLOT_DATA_SETTINGS_END__
+
+__SET_TXRETIMER_BEGIN__
+__SET_TXRETIMER_END__
+
+__SET_RXRETIMER_BEGIN__
+###|||||5GHz PRBS7|||||###
+0x15 0x91
+0x0f,0xea
+0x32,0x00
+0x13,0x0c
+0x0b,0x97
+0x0d,0x57
+0x40,0x38
+0x4e,0x0f
+0x4f,0xdc
+0x2e,0xca
+0x30,0x5b
+0x44,0x2d
+0x46,0x82
+0x43,0x60
+0x31,0x02
+0x33,0xad
+0x31,0x83
+0x33,0xbd
+0x2e,0xea
+0x2e,0xeb
+0x2e,0xea
+0x2e,0xca
+0x2e,0x0a
+0x2e,0x4a
+0x2e,0xca
+__SET_RXRETIMER_END__

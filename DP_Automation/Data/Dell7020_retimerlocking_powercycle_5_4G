@@ -1,0 +1,5064 @@
+Test Start Time:19:13:31 Test End Time:16:09:38
+Number of test run:10000
+Host Initial LockDetect:1 Device Initial LockDetect:1
+
+Test_Fail total number of failure:1
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:2
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:3
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:4
+Host:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+
+
+Test_Fail total number of failure:5
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:6
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:7
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:8
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:9
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:10
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:11
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:12
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:13
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:14
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:15
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:16
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:17
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:18
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:19
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:20
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:21
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:22
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:23
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:24
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:25
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:26
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:27
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:28
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:29
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:30
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:31
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:32
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:33
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:34
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:35
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:36
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:37
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:38
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:39
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:40
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:41
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:42
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:43
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:44
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:45
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:46
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:47
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:48
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:49
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:50
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:51
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:52
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:53
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:54
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:55
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:56
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:57
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:58
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:59
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:60
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:61
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:62
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:63
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:64
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:65
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:66
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:67
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:68
+Host:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+
+
+Test_Fail total number of failure:69
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:70
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:71
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:72
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:73
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:74
+Host:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+
+
+Test_Fail total number of failure:75
+Host:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+
+
+Test_Fail total number of failure:76
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:77
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:78
+Host:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+
+
+Test_Fail total number of failure:79
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:80
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:81
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:82
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:83
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:84
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:85
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:86
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:87
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:88
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:89
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:90
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:91
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:92
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:93
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:94
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:95
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:96
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:97
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:98
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:99
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:100
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:101
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:102
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:103
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:104
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:105
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:106
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:107
+Host:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+
+
+Test_Fail total number of failure:108
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:109
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:110
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:111
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:112
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:113
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:114
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:115
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:116
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:117
+Host:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+
+
+Test_Fail total number of failure:118
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:119
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:120
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:121
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:122
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:123
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:124
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:125
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:126
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:127
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:128
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:129
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:130
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:131
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:132
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:133
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:134
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:135
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:136
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:137
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:138
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:139
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:140
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:141
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:142
+Host:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+
+
+Test_Fail total number of failure:143
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:144
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:145
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:146
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:147
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:148
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:149
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:150
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:151
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:152
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:153
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:154
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:155
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:156
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:157
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:158
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:159
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:160
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:161
+Host:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+
+
+Test_Fail total number of failure:162
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:163
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:164
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:165
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:166
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:167
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:168
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:169
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:170
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:171
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:172
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:173
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:174
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:175
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:176
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:177
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:178
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:179
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:180
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:181
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:182
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:183
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:184
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:185
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:186
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:187
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:188
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:189
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:190
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:191
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:192
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:193
+Host:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+
+
+Test_Fail total number of failure:194
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:195
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:196
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:197
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:198
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:199
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:200
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:201
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:202
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:203
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:204
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:205
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:206
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:207
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:208
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:209
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:210
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:211
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:212
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:213
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:214
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:215
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:216
+Host:
+LockDetect:0,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+
+
+Test_Fail total number of failure:217
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:218
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:219
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:220
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:221
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:222
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:223
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:224
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:225
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:226
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:227
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:228
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:229
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:230
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:231
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:232
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:233
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:234
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:235
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:236
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:237
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:238
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:239
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:240
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:241
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:242
+Host:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+
+
+Test_Fail total number of failure:243
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:244
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:245
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:246
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:247
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:248
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:249
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:250
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:251
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:252
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:253
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:254
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:255
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:256
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:257
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:258
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:259
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:260
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:261
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:262
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:263
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:264
+Host:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+
+
+Test_Fail total number of failure:265
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:266
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:267
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:268
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:269
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:270
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:271
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:272
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:273
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:274
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:275
+Host:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:276
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:277
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:278
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:279
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:280
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:281
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:282
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:283
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:284
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:285
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:286
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:287
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:288
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:289
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:290
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:291
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:292
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:293
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:294
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:295
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:296
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:297
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:298
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:299
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:300
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:301
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:302
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:303
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:304
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:305
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:306
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:307
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:308
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:309
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:310
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:311
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:312
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:313
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:314
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:315
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:316
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:317
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:318
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:319
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:320
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:321
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:322
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:323
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:324
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:325
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:326
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:327
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:328
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:329
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:330
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:331
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:332
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:333
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:334
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:335
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:336
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:337
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:338
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:339
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:340
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:341
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:342
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:343
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:344
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:345
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:346
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:347
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:348
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:349
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:350
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:351
+Host:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+
+
+Test_Fail total number of failure:352
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:353
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:354
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:355
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:356
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:357
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:358
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:359
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:360
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:361
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:362
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:363
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:364
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:365
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:366
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:367
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:368
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:369
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:370
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:371
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:372
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:373
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:374
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:375
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:376
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:377
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:378
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:379
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:380
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:381
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:382
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:383
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:384
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:385
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:386
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:387
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:388
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:389
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:390
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:391
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:392
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:393
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:394
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:395
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:396
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:397
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:398
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:399
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:400
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:401
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:402
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:403
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:404
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:405
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:406
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:407
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:408
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:409
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:410
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:411
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:412
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:413
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:414
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:415
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:416
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:417
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:418
+Host:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+
+
+Test_Fail total number of failure:419
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:420
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:421
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:422
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:423
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:424
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:425
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:426
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:427
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:428
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:429
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:430
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:431
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:432
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:433
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:434
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:435
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:436
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:437
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:438
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:439
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:440
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:441
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:442
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:443
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:444
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:445
+Host:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+
+
+Test_Fail total number of failure:446
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:447
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:448
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:449
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:450
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:451
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:452
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:453
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:454
+Host:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+
+
+Test_Fail total number of failure:455
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:456
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:457
+Host:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+
+
+Test_Fail total number of failure:458
+Host:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+
+
+Test_Fail total number of failure:459
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:460
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:461
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:462
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:463
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:464
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:465
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:466
+Host:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+
+
+Test_Fail total number of failure:467
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:468
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:469
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:470
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:471
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:472
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:473
+Host:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+
+
+Test_Fail total number of failure:474
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:475
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:476
+Host:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+
+
+Test_Fail total number of failure:477
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:478
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:479
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:480
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:481
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:482
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:483
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:484
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:485
+Host:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+
+
+Test_Fail total number of failure:486
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:487
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:488
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:489
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:490
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:491
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:492
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:493
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:494
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:495
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:496
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:497
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:498
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:499
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:500
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:501
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:502
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:503
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:504
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:505
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:506
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:507
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:508
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:509
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:510
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:511
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:512
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:513
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:514
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:515
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:516
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:517
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:518
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:519
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:520
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:521
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:522
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:523
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:524
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:525
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:526
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:527
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:528
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:529
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:530
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:531
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:532
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:533
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:534
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:535
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:536
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:537
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:538
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:539
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:540
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:541
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:542
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:543
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:544
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:545
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:546
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:547
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:548
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:549
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:550
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:551
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:552
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:553
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:554
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:555
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:556
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:557
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:558
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:559
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:560
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:561
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:562
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:563
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:564
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:565
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:566
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:567
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:568
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:569
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:570
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:571
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:572
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:573
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:574
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:575
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:576
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:577
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:578
+Host:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:579
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:580
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:581
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:582
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:583
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:584
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:585
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:586
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:587
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:588
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:589
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:590
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:591
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:592
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:593
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:594
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:595
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:596
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:597
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:598
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:599
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:600
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:601
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:602
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:603
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:604
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:605
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:606
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:607
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:608
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:609
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:610
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:611
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:612
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:613
+Host:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:614
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:615
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:616
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:617
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:618
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:619
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:620
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:621
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:622
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:623
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:624
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:625
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:626
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:627
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:628
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:629
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:630
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:631
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:632
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:633
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:634
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:635
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:636
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:637
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:638
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:639
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:640
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:641
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:642
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:643
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:644
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:645
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:646
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:647
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:648
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:649
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:650
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:651
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:652
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:653
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:654
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:655
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:656
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:657
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:658
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:659
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:660
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:661
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:662
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:663
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:664
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:665
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:666
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:667
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:668
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:669
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:670
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:671
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:672
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:673
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:674
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:675
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:676
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:677
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:678
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:679
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:680
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:681
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:682
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:683
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:684
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:685
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:686
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:687
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:688
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:689
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:690
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:691
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:692
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:693
+Host:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+
+
+Test_Fail total number of failure:694
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:695
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:696
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:697
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:698
+Host:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+
+
+Test_Fail total number of failure:699
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:700
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:701
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:702
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:703
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:704
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:705
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:706
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:707
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:708
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:709
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:710
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:711
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:712
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:713
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:714
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:715
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:716
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:717
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:718
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:719
+Host:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:1,SubRate:1,FreqLock:1,VCOTuneNew:0x01
+
+
+Test_Fail total number of failure:720
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:721
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:722
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
+
+Test_Fail total number of failure:723
+Host:
+LockDetect:1,CalComplete:1,SubRate:0,FreqLock:1,VCOTuneNew:0x01
+Device:
+LockDetect:1,CalComplete:0,SubRate:0,FreqLock:0,VCOTuneNew:0x20
+
